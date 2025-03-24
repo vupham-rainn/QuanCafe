@@ -103,7 +103,7 @@
       font-size: 14px;
     }
     .sign-up-link a {
-      color: #4e54c8;
+      color:rgb(57, 117, 194);
       font-weight: 600;
       text-decoration: none;
     }
